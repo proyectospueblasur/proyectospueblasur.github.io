@@ -7,5 +7,6 @@ alt: image-alt
 project-date: Marzo 2024
 client: Público
 category: Entretenimiento y cultura
-description: Iniciativa cultural independiente para compartir actividades artisticas o ideas con enfoque social en el barrio. Para más información contáctanos a través del formulario de esta web o visítanos [aquí](https://www.instagram.com/gromprojekt.mex/).
+description: Iniciativa cultural independiente para compartir actividades artisticas o ideas con enfoque social en el barrio. Para más información contáctanos a través del formulario de esta web o el link de este post.
+link: https://www.instagram.com/gromprojekt.mex/
 ---

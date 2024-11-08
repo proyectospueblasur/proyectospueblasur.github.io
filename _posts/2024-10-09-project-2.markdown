@@ -7,5 +7,6 @@ alt: image-alt
 project-date: Junio 2024
 client: Estudiantes y trabajadores
 category: Habitaciones
-description: Habitaciones para estudiantes y jovenes profesionales por tiempos flexibles. Para más información contáctanos a través del formulario de esta web o visítanos [aquí](https://www.facebook.com/LaCasitaDeTesla).
+description: Habitaciones para estudiantes y jovenes profesionales por tiempos flexibles. Para más información contáctanos a través del formulario de esta web o visítanos en el link de este post.
+link: https://www.facebook.com/LaCasitaDeTesla
 ---

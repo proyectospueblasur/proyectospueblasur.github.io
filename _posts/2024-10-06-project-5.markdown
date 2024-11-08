@@ -7,5 +7,6 @@ alt: image-alt
 project-date: Abril 2023
 client: Público, estudiantes
 category: Educación y cultura
-description: Eventos educativos para estudiantes desde secundaria hasta nivel superior. Para más información contáctanos a través del formulario de esta web o visítanos [aquí](https://www.facebook.com/ElClubDeTeslaCultura).
+description: Eventos educativos para estudiantes desde secundaria hasta nivel superior. Para más información contáctanos a través del formulario de esta web o visítanos en el link de este post.
+link: https://www.facebook.com/ElClubDeTeslaCultura
 ---
