@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 6
+date: 2014-10-05
+img: sempe01.png
+alt: image-alt
+project-date: Noviembre 2024
+client: Startups y microempresas
+category: Tecnología
+description: Iniciativa en construccion para apoyar la migracion de software a infraestructuras modernas de desarrollo como CDCI que permitiran pruebas automaticas de software embebido. Esta iniciativa con experiencia internacional está enfocada principalmente a sistemas embebidos desarrollados por pequeñas (startups), microempresas y medianas empresas con falta de know-how. Para más información contáctanos a través del formulario de esta web.
+---

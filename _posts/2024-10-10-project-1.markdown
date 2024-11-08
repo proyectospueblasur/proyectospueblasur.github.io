@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2024-10-10
+img: cadete01.jpg
+alt: image-alt
+project-date: Abril 2022
+client: Estudiantes y trabajadores
+category: Habitaciones
+description: Habitaciones para mujeres estudiantes y visitantes internacionales con tiempos flexibles. Para más información contáctanos a través del formulario de esta web o visítanos [aquí](https://www.facebook.com/LaCasitaDeTesla).
+---
