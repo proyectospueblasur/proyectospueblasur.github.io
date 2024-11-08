@@ -35,6 +35,11 @@
                 <strong>{{ post.category }}</strong>
               </li>
               {% endif %}
+              {% if post.category %}
+              <li>
+                <a href="{{ post.link }}"><strong>Link</strong></a>
+              </li>
+              {% endif %}
             </ul>
             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>
               Close</button>

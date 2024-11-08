@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 6
-date: 2014-10-05
+date: 2024-10-05
 img: sempe01.png
 alt: image-alt
 project-date: Noviembre 2024

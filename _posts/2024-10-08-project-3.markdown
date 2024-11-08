@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 3
-date: 2024-10-11
+date: 2024-10-08
 img: teslamania.jpg
 alt: image-alt
 project-date: Agosto 2024

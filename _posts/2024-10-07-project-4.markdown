@@ -1,11 +1,12 @@
 ---
 layout: default
 modal-id: 4
-date: 2014-07-14
+date: 2024-10-07
 img: elclusal.jpg
 alt: image-alt
 project-date: April 2014
 client: Público
 category: Salud y deportes
 description: Proyecto en construcción. Espacio alternativo e independiente para realizar indoor spinning. Para más información contáctanos a través del formulario de esta web o visítanos [aquí](https://www.facebook.com/ElClubDeTeslaSalud).
+link: https://www.facebook.com/ElClubDeTeslaSalud
 ---
