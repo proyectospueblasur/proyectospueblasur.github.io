@@ -27,8 +27,8 @@ disqus_shortname: myshortname
 color:
   primary: bd2129 #18bc9c freelance green #80B3FF original
   primary-rgb: "189,33,41" #"24,288,156" #"128,179,255"
-  secondary: 611818 #2c3e50 #FD6E8A # el de seleccion
-  secondary-dark: feba58 # 233140 #A2122F #el de la barra superior y titulos
+  secondary: 611818 #2c3e50 #FD6E8A # el de la barra superior, de informacion y titulos
+  secondary-dark: 971a20 # 233140 #A2122F #el de seleccion y barra inferior
 
 # Footer settings
 footer:
