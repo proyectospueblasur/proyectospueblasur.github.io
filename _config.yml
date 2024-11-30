@@ -31,8 +31,7 @@ color:
   secondary-dark: 971a20 # 233140 #A2122F #el de seleccion y barra inferior
 
 # Footer settings
-<!-- translate here traduce aqui, original social, Around the Web
-  credits, Thanks to Dr. Henry Jekyll and jeromelachaud-->
+# <-- translate here traduce aqui, original social, Around the Web credits, Thanks to Dr. Henry Jekyll and jeromelachaud-->
 footer:
   copyright: Iniciativa Reyes Andrade
   location: Dónde estamos
