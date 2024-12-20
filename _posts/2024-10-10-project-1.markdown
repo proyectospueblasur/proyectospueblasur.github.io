@@ -1,4 +1,5 @@
 ---
+title: este es un titulo prueba
 layout: default
 modal-id: 1
 date: 2024-10-10
