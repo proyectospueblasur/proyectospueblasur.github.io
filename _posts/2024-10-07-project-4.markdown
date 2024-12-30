@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: El Club de Tesla (Spinning)
 modal-id: 4
 date: 2024-10-07
 img: elclusal.jpg

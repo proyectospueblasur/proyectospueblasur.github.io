@@ -1,4 +1,5 @@
 ---
+title: Teslamania (Souvenirs)
 layout: default
 modal-id: 3
 date: 2024-10-08
@@ -7,6 +8,6 @@ alt: image-alt
 project-date: Agosto 2024
 client: Público
 category: Tienda de articulos
-description: Tienda online dedicada a nuestra alma máter':' el Instituto Politecnico Nacional. Para más información contáctanos a través del formulario de esta web o visítanos o el link de este post.
+description: Tienda online dedicada a nuestra alma máter; el Instituto Politecnico Nacional. Para más información contáctanos a través del formulario de esta web o visítanos o el link de este post.
 link: https://www.facebook.com/TeslamaniaSourvenirs
 ---

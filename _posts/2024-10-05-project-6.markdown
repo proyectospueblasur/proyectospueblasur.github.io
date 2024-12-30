@@ -1,4 +1,5 @@
 ---
+title: Habilis; Tecnología en práctica (apoyo de ingeniería)
 layout: default
 modal-id: 6
 date: 2024-10-05
