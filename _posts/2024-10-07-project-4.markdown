@@ -1,5 +1,5 @@
 ---
-titel: El Club de Tesla (Spinning)
+title: El Club de Tesla (Spinning)
 layout: default
 modal-id: 4
 date: 2024-10-07
